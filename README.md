@@ -3,6 +3,6 @@
 
 🛠️ Create with:
 
-HTML 🧾 CSS 🎨 JavaScript
+HTML 🧾 CSS 🎨
 
 Feedback welcome 😊
